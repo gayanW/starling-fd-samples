@@ -8,6 +8,6 @@ Starling Demo Projects for FlashDevelop [COMPLETE]
 <strong>Demo Web</strong> 
 
 In the project settings, under 'Additional Compiler Options' add the following compiler argument:
-'-frame StartupFrame Demo_Web'
+`-frame StartupFrame Demo_Web`
 
 Also make sure you target the correct player version in the project properties.
