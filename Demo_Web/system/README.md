@@ -1,5 +1,4 @@
-Add this folder as a source path to your project. 
-That way, the graphics will be added to the application package - which is needed so that iOS & Android pick them up.
+Graphics required for the Mobile projects.
 
 Launch images:
 
